@@ -73,7 +73,7 @@ const HeroSection = ({ birthdayPersonName }: HeroSectionProps) => {
           </h2>
 
           <p className="text-xl md:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-            Էսօր բենզինին համ ու հոտ տվողի ծնունդնա, շնորհավոր ծնունդ, Նարեկս <br/>
+            Էսօր բենզինին համ ու հոտ տվողի ծնունդնա, շնորհավոր ծնունդդ, Նարեկս <br/>
             Քո բենզինը քեզ առանց անակնկալ չի թողել, իջի, ներքև նայի։
           </p>
         </div>
