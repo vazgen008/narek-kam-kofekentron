@@ -22,7 +22,7 @@ const friends: Friend[] = [
   { name: 'Lilo', image: liloImage,videoUrl:'https://youtu.be/oAmGlOkZH8k?si=Y1DlXocQCnAzQjNd' },
   { name: 'Susik', image: susoImage,videoUrl:'https://www.youtube.com/watch?v=Suqyb-QGkI0&list=RDSuqyb-QGkI0&start_radio=1' },
   { name: 'Dina', image: dinaImage,videoUrl:'https://youtu.be/EajjSNyaOIg?si=WOVFfaqjfI1ZYLdB' },
-  { name: 'Hrach', image: hrachImage,videoUrl:'https://www.youtube.com/watch?v=Suqyb-QGkI0&list=RDSuqyb-QGkI0&start_radio=1' },
+  { name: 'Hrach', image: hrachImage,videoUrl:'https://youtu.be/OZEhvyxbQ28?si=IL3gD6I09nRfIpPz' },
   { name: 'Milen 💕 💕 💕', image: milenImage ,videoUrl:'https://www.youtube.com/watch?v=Suqyb-QGkI0&list=RDSuqyb-QGkI0&start_radio=1'},
 ];
 
