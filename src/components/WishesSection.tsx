@@ -7,7 +7,7 @@ import armenImage from '@/assets/a.jpeg';
 import liloImage from '@/assets/l.jpeg';
 import susoImage from '@/assets/s.jpeg';
 import dinaImage from '@/assets/d`.png';
-import hrachImage from '@/assets/h.jpeg';
+import hrachImage from '@/assets/IMG_1491.jpeg';
 import milenImage from '@/assets/m.jpeg';
 import vid from '@/assets/Запись экрана 2025-03-19 в 12.48.32.mov'
 
